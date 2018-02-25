@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mineral Water</string>
+    <string name="username">Username</string>
+    <string name="b_login">Login</string>
+    <string name="image">imagelogo</string>
+    <string name="image_d">logomineral</string>
+    <string name="status">statuss</string>
+    <string name="minus">Minus Button</string>
+    <string name="satuan">L</string>
+</resources>
